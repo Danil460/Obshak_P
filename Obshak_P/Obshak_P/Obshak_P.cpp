@@ -4905,6 +4905,6 @@ int main()
 //}
 
 int main() {
-	cout << "Privetiki";
+	cout << "Privetiki";//Релдакктор
 	cout << "hello world";
 }
