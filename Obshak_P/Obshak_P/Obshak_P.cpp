@@ -4903,3 +4903,7 @@ int main()
 //	auto a = [a1](int a2) {cout << "Hello,World!"<<a1<<" "<<a2 << endl; };
 //	a(15);
 //}
+
+int main() {
+	cout << "hello world";
+}
